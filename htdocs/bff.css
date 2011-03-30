@@ -17,7 +17,7 @@ h1 {
 	text-align: left;
 	-webkit-border-radius: 20px;
 	-moz-border-radius: 20px;
-	border-radius: 20px;
+	border-radius: 20px 20px 20px 20px;
 	background-color: #02223D;
 	padding: 1em;
 	-moz-box-shadow: 0px 0px 15px #ccc;
@@ -28,7 +28,7 @@ h1 {
 #inner {
 	-webkit-border-radius: 15px;
 	-moz-border-radius: 15px;
-	border-radius: 15px;
+	border-radius: 15px 15px 15px 15px;
 	padding: 1em;
 	background-color: #fff;
 }
